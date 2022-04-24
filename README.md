@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Carl
+- 👀 I’m interested in managing and provisioning cloud systems infrastructure using scripts like Python/Powershell
+- 🌱 I’m currently learning Python, Powershell, Linux, AWS, Containerization(Kubernetes), and how I could incorporate all of them into a cohesive system.
+- 📫 How to reach me :
+-   LinkedIn: https://www.linkedin.com/in/carl-anthony-lim-b203b0151/
